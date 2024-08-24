@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-      domains: ['i.pinimg.com'], // Add the hostname here
+      domains: ['i.pinimg.com','images.unsplash.com'], // Add the hostname here
     },
   };
   
